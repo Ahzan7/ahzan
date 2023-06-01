@@ -8,7 +8,8 @@
   function myFunction(){
    var x;
    var d=new Date().getDay();
-   switch (d){
+   switch (d)
+   {
    case 0:
    x="today is sunday";
    break;
